@@ -1,0 +1,2 @@
+# practices
+mainly for design
